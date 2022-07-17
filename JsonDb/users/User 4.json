@@ -1,0 +1,12 @@
+{
+	"Name": "User 4",
+	"Age": 29,
+	"Contact": "23344333",
+	"Company": "Company 4",
+	"Address": {
+		"City": "Bangalore",
+		"State": "Karnataka",
+		"Country": "India",
+		"Pincode": 410413
+	}
+}
